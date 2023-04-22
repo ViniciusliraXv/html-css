@@ -14,11 +14,11 @@ img{
 a{
     display: block;
     padding: 20px;
-    background-color: darkred;
+    background-color: rgba(139, 0, 0, 0.774);
     color: white;
     text-align: center;
     text-decoration: none;
 }
-a:hover{
+a:hover {
     background-color:red;
 }
